@@ -13,7 +13,7 @@ It covers data ingestion, cleaning, SQL querying, and visualization using Power 
 
 ---
 
-## 🛠Tools & Technologies
+## Tools & Technologies
 - **Languages:** Python (Pandas, NumPy, Matplotlib/Seaborn), SQL  
 - **Databases:** PostgreSQL / MySQL / SQL Server  
 - **Visualization:** Power BI  
