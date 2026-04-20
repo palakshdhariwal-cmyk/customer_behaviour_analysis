@@ -22,17 +22,17 @@ It covers data ingestion, cleaning, SQL querying, and visualization using Power 
 ---
 
 ## Project Steps :
-1. **Data Ingestion & Cleaning**
-   - Handled missing values, duplicates, inconsistencies  
+1. **Data Ingestion & Cleaning:**
+   - Handled missing values, duplicates, inconsistencies.
 
-2. **Exploratory Data Analysis (EDA)**
-   - Identified trends and patterns  
+2. **Exploratory Data Analysis (EDA):**
+   - Identified trends and patterns.  
 
-3. **Database Management**
-   - Stored cleaned data in SQL  
+3. **Database Management:**
+   - Stored cleaned data in SQL.  
 
-4. **Dashboarding**
-   - Built interactive Power BI dashboard  
+4. **Dashboarding:**
+   - Built interactive Power BI dashboard.
 
 5. **Documentation**
    - Final report + presentation
